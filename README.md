@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabashi Nuwani</h1>
-<br>
+
 <h3 align="center">A passionate IT Student | full stack developer 🌟.</h3>
 
 
