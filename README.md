@@ -9,7 +9,7 @@
 
 <p><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **Mobile App Developing**
+- 🔭 I’m currently working on **Mobile App Developing | Full Stack Development**
 
 - 🌱 I’m currently learning **Android Studio**
 
