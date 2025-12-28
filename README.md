@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Android Studio**
 
-- 👯 I’m Undegratuate at **FOT|UOR**
+- 🎓 BICT Undergraduate Student at Ruhuna University
 
 - 📫 How to reach me **nuwaniprabhashi2003@gmail.com**
 
