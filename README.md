@@ -9,20 +9,24 @@
 
 <p><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **Mobile App Developing | Full Stack Development**
+- 🔭 learning: **Full Stack Development | Mobile App Developing | Devops **
 
-- 🌱 I’m currently learning **Android Studio**
+- 🎓 BICT Undergraduate @ University of Ruhuna | BIT Undergraduate @ University of Moratuwa
 
-- 🎓 BICT Undergraduate Student at Ruhuna University
-
-- 📫 How to reach me **nuwaniprabhashi2003@gmail.com**
+- 📫 Reach me **nuwaniprabhashi2003@gmail.com**
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabashi jayaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabashi jayaweera" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prabashi jayaweera" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabashi jayaweera" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nuwaniprabhashi2003@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
