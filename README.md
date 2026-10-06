@@ -24,12 +24,8 @@
   </a>
 
   <a href="mailto:nuwaniprabhashi2003@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nuwaniprabhashi2003@gmail.com" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40">
   </a>
-
-  <a href="mailto:nuwaniprabhashi2003@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40">
-</a>
 </p>
 
 
